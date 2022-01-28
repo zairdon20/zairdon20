@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 <img src="https://img.icons8.com/nolan/50/react-native.png"/>
 ![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
+
+### GitHub Status.  
+
+[![Tchilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zairdon20&show_icons=true&theme=dracula)](https://github.com/Tchilo/github-readme-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zairdon20&theme=radical" alt="tedlivist" /></p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zairdon20&theme=dracula)](https://github.com/Tchilo/github-readme-stats) -->
