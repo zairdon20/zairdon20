@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 
-hr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
